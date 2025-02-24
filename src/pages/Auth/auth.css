@@ -1,0 +1,22 @@
+.container{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.form-container{
+    border: 1px solid black;
+    padding: 30px;
+}
+
+h3{
+    text-align: center;
+}
+
+.btn{
+    margin: auto;
+    justify-content: center;
+    display: block;
+}
